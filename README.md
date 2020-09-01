@@ -101,5 +101,7 @@ go build mycontainerd.go
 ./mycontainerd.go
 ```
 ## References
-- https://containerd.io/docs/getting-started/
-- https://github.com/opencontainers/runc
+- https://containerd.io/docs/getting-started
+- https://github.com/opencontainers/runc  
+  
+Visit that awesome CNCF Projects!
