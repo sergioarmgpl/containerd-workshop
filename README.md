@@ -104,4 +104,4 @@ go build mycontainerd.go
 - https://containerd.io/docs/getting-started
 - https://github.com/opencontainers/runc  
   
-Visit that awesome CNCF Projects!
+Visit these awesome CNCF Projects!
