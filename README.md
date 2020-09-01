@@ -1,2 +1,2 @@
 # containerd-workshop
-Containerd basic use tutorial using Ubuntu 18.04LTS
+Containerd basic tutorial using Ubuntu 18.04LTS
