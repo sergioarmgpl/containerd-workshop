@@ -5,8 +5,8 @@ Containerd basic tutorial using Ubuntu 18.04LTS
 - Container = v1.4.0
 - unzip
 
-## steps
-### step 1: download containerd sources
+## Steps
+### Step 1: download containerd sources
 Download and set containerd source files
 ```
 mkdir containerd-src
@@ -22,7 +22,7 @@ Copy containerd binary files to /user/local/bin
 mv bin/* /usr/local/bin
 ```
 
-### step 2: create containerd etc and others configurations
+### Step 2: create containerd etc and others configurations
 create file and directory
 ```
 mkdir /etc/containerd
@@ -54,7 +54,7 @@ systemctl status containerd
 
 ### Step3: Install Golang
 Download Golang:   
-- https://golang.org/dl/
+- https://golang.org/dl  
 Download and extract sources
 ```
 wget https://golang.org/dl/go1.15.linux-amd64.tar.gz
