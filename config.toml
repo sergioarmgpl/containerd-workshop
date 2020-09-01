@@ -1,0 +1,12 @@
+subreaper = true
+oom_score = -999
+
+[debug]
+        level = "debug"
+
+[metrics]
+        address = "127.0.0.1:1338"
+
+[plugins.linux]
+        runtime = "runc"
+        shim_debug = true
