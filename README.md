@@ -84,7 +84,7 @@ cd $GOPATH/src/github.com/opencontainers/runc
 make
 sudo make install
 ```
-RunC will be install on:  
+RunC will be installed on:  
 /usr/local/sbin/runc
 
 ### Step5: Run Containerd Examples
