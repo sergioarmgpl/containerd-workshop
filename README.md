@@ -9,6 +9,7 @@ Containerd basic tutorial using Ubuntu 18.04LTS
 ### Step 1: download containerd sources
 Download and set containerd source files
 ```
+cd 
 mkdir containerd-src
 cd containerd-src
 wget https://github.com/containerd/containerd/archive/v1.4.0.zip
@@ -90,6 +91,7 @@ RunC will be installed on:
 ### Step5: Run Containerd Examples
 Install go libreries to compile the example
 ```
+cd ~
 go get github.com/containerd/containerd
 go get github.com/containerd/containerd/cio
 go get github.com/containerd/containerd/oci
@@ -97,6 +99,7 @@ go get github.com/containerd/containerd/namespaces
 ```
 Then compile it and run it, but first change to the directory where you have the mycontainerd.go file
 ```
+cd ~
 go build mycontainerd.go
 ./mycontainerd.go
 ```
