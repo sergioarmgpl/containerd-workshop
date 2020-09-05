@@ -95,7 +95,7 @@ go get github.com/containerd/containerd/cio
 go get github.com/containerd/containerd/oci
 go get github.com/containerd/containerd/namespaces
 ```
-Then compile it and run it
+Then compile it and run it, but first change to the directory where you have the mycontainerd.go file
 ```
 go build mycontainerd.go
 ./mycontainerd.go
