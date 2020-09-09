@@ -9,7 +9,7 @@ Containerd basic tutorial using Ubuntu 18.04LTS
 ### Step 1: download containerd sources
 Download and set containerd source files
 ```
-cd 
+cd ~
 mkdir containerd-src
 cd containerd-src
 wget https://github.com/containerd/containerd/archive/v1.4.0.zip
